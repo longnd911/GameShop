@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:id="@+id/menu_add_new_item"
-        android:title="Add new item"/>
-    <item android:id="@+id/menu_exit"
-        android:title="Exit" />
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/bgVn"
+        android:title="Board Game Việt"/>
+    <item android:id="@+id/bgUs"
+        android:title="Board Game Ngoại"/>
 </menu>
